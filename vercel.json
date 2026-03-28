@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/physiology-chatbot-v2.html" }
+  ]
+}
